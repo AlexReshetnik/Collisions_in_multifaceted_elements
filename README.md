@@ -4,6 +4,7 @@ During the development of projects, it was often necessary to copy and peek at p
 I saved everything on the PC, and in git everything was in one repository (AllProjectForStyding), now
 I sorted everything and created a separate repository
 
+<a href="https://alexreshetnik.github.io/Collisions_in_multifaceted_elements/lookme.mp4" target="_blank">Demo video</a>
 
 Pet-project
 <br><br>Git-hub pages - https://alexreshetnik.github.io/Collisions_in_multifaceted_elements/
